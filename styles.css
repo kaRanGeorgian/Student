@@ -1,0 +1,54 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(images/pexels-johannes-plenio-1125774.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;
+    padding: 0.6rem;
+    color: #fff; 
+}
+
+
+header {
+    background-color: #333;
+    color: #e6dcdc;
+    text-align: center;
+    padding: 0.6rem 0;
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    font-size: 4rem;
+}
+
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.verse, .chorus {
+    margin-bottom: 25px;
+}
+
+.lyrics {
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.chorus {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff; 
+}
+
+.verse{
+    color: #dd3636;
+}
